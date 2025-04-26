@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BeelineMLT_S</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #FFD700;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        img {
+            width: 150px;
+            margin-top: 20px;
+        }
+        .socials a {
+            color: #FFD700;
+            text-decoration: none;
+            margin: 0 10px;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ici C’est nous BeelineMLT_S je vous souhaite bienvenue !</h1>
+    
+    <!-- Logo -->
+    <img src="logo.png" alt="Logo BeelineMLT_S">
+
+    <!-- Réseaux sociaux -->
+    <div class="socials">
+        <p>Suivez-nous :</p>
+        <a href="https://instagram.com/BeelineMult.S09" target="_blank">Instagram</a>
+        <a href="https://facebook.com/BeelineMult.S09" target="_blank">Facebook</a>
+        <a href="https://youtube.com/@BeelineMult.S09" target="_blank">YouTube</a>
+        <a href="https://tiktok.com/@BeelineMult.S09" target="_blank">TikTok</a>
+    </div>
+
+    <!-- Contact -->
+    <p>Contact : +509 32319423 / +509 40565684<br>
+    Email : <a href="mailto:Beelinecompany09@gmail.com" style="color: #FFD700;">Beelinecompany09@gmail.com</a></p>
+</body>
+</html>
